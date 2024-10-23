@@ -11,6 +11,7 @@ cd repo_name
 ```
 
 Creating and activating a virtual environment (recommended):
+
 Windows:
 ```
 python -m venv venv
