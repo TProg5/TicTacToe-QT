@@ -24,4 +24,5 @@ source venv/bin/activate
 ```
 
 Dependency Setup:
+
 ```pip install -r requirements.txt``` or ```pip install PyQt6```
