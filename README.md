@@ -2,7 +2,9 @@ It's tic-tac-toe crosses with a graphical interface in python.
 
 Clone the repository:
 ```bash
-   git clone https://github.com/username/repo_name.git
+git clone https://github.com/username/repo_name.git
+```
+
 Go to the project directory:
 ```
 cd repo_name
